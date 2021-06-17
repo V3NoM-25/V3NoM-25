@@ -3,7 +3,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Yash</a> currently a Third Year CSE student. Interested in working on frontend, backend, API's, Databases and currently learning about Blockchain Technology. Occasionaly I do participate in Hackathons :bulb:
+    I'm Yash currently a Third Year CSE student. Interested in working on frontend, backend, API's, Databases and currently learning about Blockchain Technology. Occasionaly I do participate in Hackathons :bulb:
   </samp>
 </p>
 
